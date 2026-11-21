@@ -3,6 +3,7 @@
 
 # katalogi pythona
 __pycache__/
+.pytest_cache/
 
 # pliki systemowe
 Thumbs.db
